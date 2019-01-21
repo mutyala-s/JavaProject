@@ -5,4 +5,5 @@ public class Employ {
 	String dept;
 	String salary;
 	String roll;
+	String city;
 }
